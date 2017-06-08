@@ -1,0 +1,43 @@
+{
+  "name": "barcode",
+  "version": “0.0.1”,
+  "description": "JieWeiFu barcode cordova plugin",
+  "cordova": {
+    "id": "com.jieweifu.plugins.barcode",
+    "platforms": [
+      "ios",
+      "android",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyocn/BarcodeScanner.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=3.9.2"
+    },
+    {
+      "name": "cordova-windows",
+      "version": ">=5.0.0"
+    }
+  ],
+  "author": “kyocn”,
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kyocn/BarcodeScanner/issues"
+  },
+  "homepage": "https://github.com/kyocn/BarcodeScanner/blob/master/README.md"
+}
